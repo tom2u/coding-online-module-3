@@ -12,3 +12,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [3.2.6/robot-gladiators](https://tom2u.github.io/coding-online-module-3/3.2.6/robot-gladiators)  
 [3.2.7/robot-gladiators](https://tom2u.github.io/coding-online-module-3/3.2.7/robot-gladiators)  
 [3.2.8/robot-gladiators](https://tom2u.github.io/coding-online-module-3/3.2.8/robot-gladiators)  
+[3.3.3/robot-gladiators](https://tom2u.github.io/coding-online-module-3/3.3.3/robot-gladiators)  
